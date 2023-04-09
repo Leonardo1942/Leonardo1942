@@ -1,4 +1,4 @@
-## Olá! Aqui é o Léo, futuro desenvolvedor!
+## Olá! Aqui é o Léo, desenvolvedor estágiario!
 <div align="center">
   <a href="https://github.com/Leonardo1942">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Leonardo1942&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
