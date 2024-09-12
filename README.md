@@ -1,18 +1,7 @@
-## Olá! Aqui é o Léo!
-<div align="center">
-  <a href="https://github.com/Leonardo1942">
-  <img height="170em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Leonardo1942&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo1942&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="" height="150" style="border-radius:50px;" src="">
-</div>
-  
+
+[![Leonardo Holanda GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo1942)](https://github.com/Leonardo1942/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo1942&layout=compact&langs_count=8)
+
   ##
  
 <div> 
